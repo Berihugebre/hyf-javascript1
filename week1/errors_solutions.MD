@@ -9,6 +9,7 @@ while (value < 9)
   value++;
 };
 ```
+
 error message:
 ```
 Uncaught SyntaxError: Unexpected token }
